@@ -14,11 +14,11 @@
 
 **Languages & Tools**
 
-* Python
-* SQL
-* Excel
-* Power BI
-* Git & GitHub
+* ![Python](https://img.shields.io/badge/Python-blue) Python
+* ![SQL](https://img.shields.io/badge/SQL-lightblue) SQL
+* ![Excel](https://img.shields.io/badge/Excel-green) Excel
+* ![Power BI](https://img.shields.io/badge/PowerBI-yellow) Power BI
+* ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) Git & GitHub
 
 **Data Analytics**
 
