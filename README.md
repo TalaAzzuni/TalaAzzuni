@@ -4,11 +4,11 @@
 
 ## About Me
 
-* 🎓 Graduate in Data Science & Artificial Intelligence
-* 📈 Interested in Data Analysis, Business Intelligence, and Data Visualization
-* 🐍 Working with Python, SQL, Excel, and Power BI
-* 🔍 Enjoy exploring datasets and uncovering meaningful insights
-* 🌱 Currently improving my skills in analytics through real-world data projects
+* Graduate in Data Science & Artificial Intelligence
+* Interested in Data Analysis, Business Intelligence, and Data Visualization
+* Working with Python, SQL, Excel, and Power BI
+* Enjoy exploring datasets and uncovering meaningful insights
+* Currently improving my skills in analytics through real-world data projects
 
 ## Skills
 
