@@ -2,15 +2,13 @@
 
 📊 Data Analyst | 🎓 Data Science & AI Graduate 
 
-Welcome to my GitHub! I'm passionate about transforming raw data into meaningful insights and helping people make better decisions through analytics and visualization.
-
 ## About Me
 
 * 🎓 Graduate in Data Science & Artificial Intelligence
 * 📈 Interested in Data Analysis, Business Intelligence, and Data Visualization
 * 🐍 Working with Python, SQL, Excel, and Power BI
-* 🔍 Enjoy exploring datasets and uncovering hidden patterns
-* 🌱 Currently expanding my skills in analytics and real-world data projects
+* 🔍 Enjoy exploring datasets and uncovering meaningful insights
+* 🌱 Currently improving my skills in analytics through real-world data projects
 
 ## Skills
 
@@ -27,7 +25,7 @@ Welcome to my GitHub! I'm passionate about transforming raw data into meaningful
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
 * Data Visualization
-* Dashboard Development
+* Dashboard Development (Power BI)
 * Statistical Analysis
 
 ## Featured Projects
@@ -35,8 +33,8 @@ Welcome to my GitHub! I'm passionate about transforming raw data into meaningful
 📌 Hotel Booking Cancellation Prediction
 Analyzed hotel booking data and built predictive models to identify cancellation patterns.
 
-📌 Employee Information RAG System
-Developed a bilingual (Arabic & English) Retrieval-Augmented Generation system for employee data.
+📌 HR Data Analysis
+Analyzed HR data to uncover insights about employee trends, performance, and workforce patterns using Python.
 
 📌 Interactive Power BI Dashboards
 Created dashboards to transform complex datasets into actionable business insights.
@@ -46,13 +44,12 @@ Created dashboards to transform complex datasets into actionable business insigh
 * 🧶 I run a crochet business alongside my tech journey.
 * 🎧 I work better when listening to music.
 * 🖥️ I prefer practical learning over theory.
-* 🎯 My goal is to build solutions that create real-world impact.
+* 🎯 I like building solutions that actually solve real-world problems.
 
 ## Let's Connect
 
-Feel free to explore my repositories and follow my journey as I continue learning, building, and growing in the world of data analytics.
-
-If you find something interesting, don't forget to star the repository!
+Thanks for stopping by my GitHub!
+I’m always open to learning, collaborating, and exploring opportunities in Data Analytics.
 
 <!--
 **TalaAzzuni/TalaAzzuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
